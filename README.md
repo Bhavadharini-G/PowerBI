@@ -105,3 +105,56 @@ Movies make up a significant portion (80%) of the collection compared to TV show
 Published the dashboard on Power BI Service for sharing with stakeholders or embedding into reports.
 
 This dashboard acts as an analytical tool to provide actionable insights into Prime Video's extensive content library, guiding data-driven decisions for content creators, marketers, or platform analysts.
+## Here are the skills required to build a Power BI dashboard like the one for Prime Video analysis:
+
+## 1. Data Analysis and Visualization
+Data Cleaning and Preparation:
+Handling missing values, duplicates, and inconsistent data formats.
+Familiarity with tools like Power Query or Excel for preprocessing.
+Data Aggregation:
+Grouping data to calculate KPIs like totals, averages, or counts.
+Data Visualization:
+Choosing appropriate chart types (bar charts, line charts, pie charts, cards).
+Understanding dashboard layout and user-centric design.
+## 2. Power BI Skills
+Power BI Desktop:
+Importing and connecting datasets (Excel, CSV, SQL, APIs).
+Designing interactive visuals and reports.
+DAX (Data Analysis Expressions):
+Writing formulas for calculated columns, measures, and KPIs (e.g., total titles, percentages).
+Using functions like SUM(), COUNTROWS(), and FILTER().
+Power Query:
+Transforming and modeling raw data (renaming columns, pivoting, splitting).
+Combining multiple datasets using merge or append.
+## 3. Data Storytelling
+Insights Extraction:
+Interpreting patterns and trends (e.g., genre popularity, ratings distribution).
+Summarizing insights for business relevance.
+Visual Communication:
+Structuring the dashboard for clarity and usability.
+Using branding elements (e.g., Prime Video logo, dark theme).
+## 4. Tools and Technologies
+Power BI Service:
+Publishing and sharing dashboards online.
+Setting up access permissions for users.
+Basic Database Knowledge:
+Working with SQL to fetch data from databases.
+Joining and querying tables effectively.
+Excel:
+Handling initial data for analysis.
+## 5. Domain Knowledge
+Streaming Industry Insights:
+Understanding key metrics for platforms like Prime Video (genres, ratings, release trends).
+Audience Segmentation:
+Familiarity with content ratings and audience preferences.
+## 6. Soft Skills
+Problem-Solving: Addressing data inconsistencies and designing meaningful visualizations.
+Attention to Detail: Ensuring accurate and error-free metrics.
+Communication: Explaining data-driven insights to non-technical stakeholders.
+Additional Skills (Optional but Useful)
+Python or R for Data Analysis: Automating data cleaning and preprocessing tasks.
+SQL for Advanced Queries: Fetching data efficiently from relational databases.
+Advanced Power BI Features:
+Custom visuals from the Power BI marketplace.
+Row-level security for controlling data access.
+These skills collectively enable the creation of professional dashboards for insightful data analysis and storytelling.
